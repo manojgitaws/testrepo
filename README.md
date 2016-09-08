@@ -1,2 +1,3 @@
 # testrepo
-My Test Repository
+My GitHub Test Repository.
+This is my first repository.
