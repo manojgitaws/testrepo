@@ -1,7 +1,4 @@
-This line has been added from Local Terminal
-This has been modified from GIT portal by Manoj.
-This would be example of merge conlicts.
-
+This file has been modified
 # testrepo
 
 My GitHub Test Repository.
