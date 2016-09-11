@@ -1,4 +1,5 @@
 This has been modified from GIT portal by Manoj.
+This would be example of merge conlicts.
 
 # testrepo
 
