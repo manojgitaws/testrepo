@@ -1,4 +1,6 @@
 Manoj Kumar
+=======
+Exmaple for Merge Conflicts.
 File has been modified.
 
 testfine
